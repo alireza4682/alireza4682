@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a frontend developer with 5+ years of experience in JavaScript and 3+ years of experience in Reactjs, TypeScript and Redux. I know my way around backend concepts with Nodejs and have 2+ years of experience working with GraphQl, SQL, MongoDB.
+I am a frontend engineer with 5+ years of experience in JavaScript and 3+ years of experience in Reactjs, TypeScript and Redux. I know my way around backend concepts with Nodejs and have 2+ years of experience working with GraphQl, SQL, MongoDB.
 
 * 🌍  I'm based in Shiraz, Iran
 * ✉️  You can contact me at [alirezaarezoumandan1@gmail.com](mailto:alirezaarezoumandan1@gmail.com)
